@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "belorusneft",
+  "private_key_id": "7898db57ad1865cd80b3709ccbe2963e6c985687",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDb4EiIOH5hn9xt\npFkGWGETrFtVQiHCYQX46PXgoDnB56qete4sNk/8GE/vi9IC8fkYFFT29uLCOUj9\nPw1lDIjh7a8423dSrD5qTf73e8qd6+t5KyR1kpgkqF8wDIy3cdj+1SebttrdWNjn\nQs8MWTmi+lfrSxpFGS1u3I1Q0CeAKg4/eFihkOX4i0iJT43oPZa8jQnkyTmeGLsd\nKOPx5dpKimGnlfeR/rl3sJSLRqnyHBdyWPwtKeGvsnxgcoLGKuWN/jXnlhPnXt65\nEdVRz6+OMeGfKTTm6TNdBipQvlkHeXBkMxKuAig8gwDEwG4ojOcEpsahA9JxGa9b\nt7DOvF1bAgMBAAECggEAGISuEeKa1TAKWH+XHcoFKThzBtLVCOPg0pzHrkCvsBux\nPvlykaOMz8O2RjQFOybYbAL4ZoGpT5cruHGrgLUhHnButZxjdeiXHSuNXvOC6JFC\nNMTG0AWEybGsy6Lanion1GLYg9ikF0KtDTy58dqRPsdDvo0lZMcl9dLKP1S20ueo\nqkm1H06qASp3bcPInhMXlVCrnjUYyOwr+wvUAku4jVj3mFf/+tDEqP8xgtcR1wgy\n/VixvHDSMPciXRIWLAKyhju9ojVByKg/W5Ld6cHonQM/NDUtibXlRYXJ8cXRHm/T\ngGWT73QmMbmtO7kJcyy/OBN1hfJwx1jgjtoBA2b4QQKBgQD6Oivg/RyFufvDHJkJ\nOzK3CXrV6w2Phr7taEDJImfKgguEWcNeq45P013ZyCjMAGjmVIeaHhupxzjlH2/a\nkYzfJChBNFQWHuW99Ez7z2JpIqsTh3a56/33kbCWF4rVK7jTC0/pUj6KSIqSk8Ga\n3o4b8QkkqwQAwuR6hmz8Nw2+EwKBgQDg8twch1Eo5xvmqP4JTg0OxARMZVIMhm7K\nOyYSMFM5pEqRCFZMk3YtDEwyNrIXLgU7SocC4JYLAcpS3jWv+pO1HGjyY9kuelrc\niUerhzJ7SIBaF4svfoMFBw76GzlMgIA7QU8uyXm3P8e0e5meCS7FTYgjYgiNGVeK\nCS/OmwusmQKBgDdscxOefJbSHwWUbAEzb4RDQUXojlRgECIdmVvzlvGv5EUobLGn\nZhogQwVd5EtrO9DooDBuwsnUKrH1SJ0s5/r000W+BXHw3go49mRABxgqaaIluxJr\nRxFy354fEM0upf143/ZaFSgj8S2ONK/M48UkmlXY20Yf5OOOqs0ilJSpAoGAQWTY\nsEJ2SZnF9qwyDapvCVfamArsa0+5bXj8fFUoHJ2yP69YxzInLLlifUaBR1PNmYr0\n7NU1SUXf92851ErYHdKAf9afEG/pcitGdor7FfPhvE8T216/3/pJVFQNuDuzC4bU\n6hkQFUGpYMJ9yf+JZTpA1Whua/ZuCGbbSwivwCECgYBGGcpHC5L7ygMi8mgk+1OO\nOnkxeDQbE7h5UzXuLN/wg/KjzaseAKsCPL9dtZbdUFvFhTc3WGLm5Crc0NgBMsIY\nQ4soepA11y/PhOozkq01Tv86Is5kC47GCm7F26wY62EDki+R9qanb94tp0ZIAO0a\nuRxxhDWoM2xlQEWVPJe8bA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "belorusneft@belorusneft.iam.gserviceaccount.com",
+  "client_id": "116324322196793479810",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/belorusneft%40belorusneft.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
